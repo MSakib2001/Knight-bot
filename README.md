@@ -3,6 +3,9 @@
 This repository contains the SystemVerilog implementation of **KnightBot**, an FPGA-controlled robot that simulates the movements of a knight piece on a chessboard. The project was developed for a digital design lab course, under the direction of the instructor, who provided the full system specification and behavioral requirements.
 
 ---
+<p align="center">
+  <img src="knight_bot_pic.jpg" alt="Block diagram" width="600"/>
+</p>
 
 ## 🧠 Project Overview
 
